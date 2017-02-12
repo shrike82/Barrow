@@ -1,0 +1,18 @@
+{
+	"version" : "1.0",
+	"author" : "Chris1231",
+	
+	"name" :  {
+		"en" : "Barrow",
+		"de" : "Schubkarre"
+	},
+	"description" : {
+		"en" : "Add the transport item barrow to the game.",
+		"de" : "Fügt dem Spiel das Transport-Item Schubkarre hinzu."
+	},
+	
+	"links" : {
+		"download" : "https://github.com/DigglesMods/Barrow/releases",
+		"wiki" : "https://github.com/DigglesMods/Barrow/wiki"
+	}
+}
