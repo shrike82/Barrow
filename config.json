@@ -1,4 +1,4 @@
-{
+﻿{
 	"version" : "1.0",
 	"author" : "Chris1231",
 	
@@ -8,7 +8,7 @@
 	},
 	"description" : {
 		"en" : "Add the transport item barrow to the game.",
-		"de" : "F�gt dem Spiel das Transport-Item Schubkarre hinzu."
+		"de" : "Fügt dem Spiel das Transport-Item Schubkarre hinzu."
 	},
 	
 	"links" : {
