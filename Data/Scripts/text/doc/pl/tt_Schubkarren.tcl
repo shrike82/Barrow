@@ -8,7 +8,7 @@ textwin print "/(is10)/(ildata/gui/icons/Schubkarren.tga)"
 ohlp_ttheadlinestyle
 textwin print "Taczka"
 ohlp_tttextbodystyle
-textwin print "W koÃ±cu karÂ³y nie muszÂ¹ nosiÃ¦ wszystkiego na swoich plecach. Ta taczka uÂ³atwi Â¿ycie Twoim podopiecznym. Na pewno ci za to podziÃªkujÂ¹!"
+textwin print "W koñcu kar³y nie musz¹ nosiæ wszystkiego na swoich plecach. Ta taczka u³atwi ¿ycie Twoim podopiecznym. Na pewno ci za to podziêkuj¹!"
 
 // ---- do not change anything below this line ---
 
