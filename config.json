@@ -4,12 +4,12 @@
 	
 	"name" :  {
 		"en" : "Barrow",
-		"de" : "Schubkarre"
+		"de" : "Schubkarre",
 		"pl" : "Dodaj do gry taczkę"
 	},
 	"description" : {
 		"en" : "Add the transport item barrow to the game.",
-		"de" : "Fügt dem Spiel das Transport-Item Schubkarre hinzu."
+		"de" : "Fügt dem Spiel das Transport-Item Schubkarre hinzu.",
 		"pl" : "Dodaje do gry nowy przedmiot rozszerzający ekwipunek karłów."
 	},
 	
