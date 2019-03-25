@@ -1,7 +1,4 @@
-[![EN](./../en-GB/flag.png) Read in English](./../en-GB)
-[![PL](./flag.png) Czytaj po polsku](./)
-
-# Dodaj do gry taczkę [![PL](./flag.png)](./)
+# Dodaj do gry taczkę [![EN](./../en-GB/flag.png)](./../en-GB) [![PL](./flag.png)](./)
 __Dodaj do gry taczkę__ to modyfikacja do gry Wiggles, która dodaje do niej nowy przedmiot - __taczkę__. Taczka rozszerza ekwipunek karłów o dodatkowe 6 miejsc, które zyskujemy nawet, gdy karzeł używa kosza. Taczka może zostać wynaleziona i wyprodukowana w Tartaku.
 
 ## Skąd pobrać modyfikację?
